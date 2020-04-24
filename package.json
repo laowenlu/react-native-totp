@@ -1,7 +1,7 @@
 
 {
   "name": "react-native-totp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A React Native module google Authenticator (TOTP)",
   "main": "index.js",
   "scripts": {
@@ -11,11 +11,12 @@
     "react-native",
     "react-native-totp",
     "totp",
-    "otp"
+    "otp",
+    "google-authenticator"
   ],
   "author": "laowen",
   "license": "MIT",
-  "homepage": "https://www.baidu.com",
+  "homepage": "https://github.com/laowenlu/react-native-totp",
   "peerDependencies": {
     "react-native": "^0.41.2",
     "react-native-windows": "0.41.0-rc.1"

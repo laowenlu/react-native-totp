@@ -11,6 +11,7 @@ react-native版本 < 0.60
 react-native版本 >= 0.60
 
 1. `$ npm install react-native-totp --save`
+2. `cd ios && pod install`
 
 ## 使用
 
